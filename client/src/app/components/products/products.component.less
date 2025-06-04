@@ -1,0 +1,38 @@
+select{
+    border-radius: 10px;
+    padding: 2px;
+}
+
+#allCategoriesDiv {
+    direction: rtl;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgb(180, 180, 180);
+    margin-bottom: 1rem;
+}
+#cards-container{
+    direction: rtl;
+}
+
+#sortTypesDiv {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    direction: rtl;
+    flex-grow: 1;
+}
+
+.categoryBtn, #sortTypesDiv {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+    padding: 0.75rem;
+}
+
+.notInStack {
+    border: red solid 2px;
+}
+
+.inStack {
+    border: rgb(219, 250, 240) solid 5px;
+}

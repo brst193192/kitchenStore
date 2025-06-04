@@ -1,0 +1,53 @@
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\BLL_Services.deps.json
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\BLL_Services.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\BLL_Services.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\refint\BLL_Services.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\ref\BLL_Services.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\BLL_Services.deps.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\BLL_Services.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\BLL_Services.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\DTO_Entity_Common.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\REPOSITORY.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\REPOSITORY.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\DTO_Entity_Common.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.csproj.AssemblyReference.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\refint\BLL_Services.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\ref\BLL_Services.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\IBll.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\IRepository.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\IBll.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\IRepository.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\BLL_Services.deps.json
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\BLL_Services.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\BLL_Services.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\DTO_Entity_Common.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\IBll.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\IRepository.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\REPOSITORY.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\IBll.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\REPOSITORY.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\DTO_Entity_Common.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\bin\Debug\net8.0\IRepository.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.csproj.AssemblyReference.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.AssemblyInfoInputs.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.AssemblyInfo.cs
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.csproj.CoreCompileInputs.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Serv.0F932C65.Up2Date
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\refint\BLL_Services.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Services.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\ref\BLL_Services.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\BLL\obj\Debug\net8.0\BLL_Serv.0F932C65.Up2Date

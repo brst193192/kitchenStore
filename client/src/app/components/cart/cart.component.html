@@ -1,0 +1,37 @@
+<!-- אם אין משתמש מחובר - לא ניתן לראות את העגלה -->
+@if(user!.id==null){
+<div style="display: block; text-align: center; margin-top: 2rem; font-size: 1.2rem;">
+    <p>כדי לראות את העגלה יש להתחבר כמשתמש</p>
+    <button (click)="navigate()" class="btn btn-primary">התחברות</button>
+</div>
+}
+@else{
+<!-- אחרת - עובר על רשימת המוצרים בעגלה ומציג אותם -->
+<div class="cart-container">
+    @for(i of cart_list; track $index){
+    <div class="product-card">
+        <img class="product-img" src="../../../assets/{{i.product?.img}}" alt="Product Image">
+        <input type="checkbox" [checked]="i.isSelect" (change)="changeSeleted($index)">
+        <div class="product-info">
+            <p>שם: {{i.product!.name}}</p>
+            <p>תאור: {{i.product!.desc}}</p>
+            <p>מחיר לפריט: {{i.product!.price}}</p>
+            <p [ngClass]="{'errorAmount':i.amount!>i.product?.amountInStock!}">כמות במלאי: {{i.product?.amountInStock!}}
+            </p>
+        </div>
+        <div class="amount-div">
+            <p (click)="changeAmount($index, 1)" [class.disabled]="i.product!.amountInStock!>i.amount!">➕</p>
+            <p>{{i.amount}}</p>
+            <p (click)="changeAmount($index, -1)">➖</p>
+        </div>
+        <p>סה"כ לתשלום: {{(i.product!.price!*i.amount!) | num:2}}</p>
+        <button (click)="changeAmount($index, -i.amount!)" class="btn btn-danger"
+            style="height: 100%; border-radius: 0%;">מחק</button>
+    </div>
+    }
+    <div style="text-align: center">
+        <p>סה"כ לתשלום: ₪{{sum | num:2}}</p>
+        <button (click)="order()" [disabled]="sum==0" class="btn btn-primary">למעבר לתשלום</button>
+    </div>
+</div>
+}

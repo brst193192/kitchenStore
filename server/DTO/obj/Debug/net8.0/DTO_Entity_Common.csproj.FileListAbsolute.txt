@@ -1,0 +1,33 @@
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\bin\Debug\net8.0\DTO_Entity_Common.deps.json
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\bin\Debug\net8.0\DTO_Entity_Common.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\bin\Debug\net8.0\DTO_Entity_Common.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\refint\DTO_Entity_Common.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\ref\DTO_Entity_Common.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\bin\Debug\net8.0\DTO_Entity_Common.deps.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\bin\Debug\net8.0\DTO_Entity_Common.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\bin\Debug\net8.0\DTO_Entity_Common.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\refint\DTO_Entity_Common.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\ref\DTO_Entity_Common.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\bin\Debug\net8.0\DTO_Entity_Common.deps.json
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\bin\Debug\net8.0\DTO_Entity_Common.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\bin\Debug\net8.0\DTO_Entity_Common.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.AssemblyInfoInputs.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.AssemblyInfo.cs
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.csproj.CoreCompileInputs.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\refint\DTO_Entity_Common.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\DTO_Entity_Common.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\DTO\obj\Debug\net8.0\ref\DTO_Entity_Common.dll

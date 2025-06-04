@@ -1,0 +1,46 @@
+@if(currentUser.id==null){
+    <div  style="display: block; text-align: center; margin-top: 2rem; font-size: 1.2rem;">
+        <p>כדי לראות את ההזמנות יש להתחבר כמשתמש</p>
+        <button (click)="navigate()" class="btn btn-primary">התחברות</button>
+    </div>
+}
+@else{
+<div id="orders-container">
+    <h1>:ההזמנות שלי</h1>
+    <!-- מעבר על רשימת ההזמנות -->
+    @for(i of orders; track i){
+    <div class="order-div">
+        <div class="order-info card-body">
+            <p>מספר הזמנה: {{i.id}}</p>
+            <p>תאריך הזמנה: {{i.orderDate | date}}</p>
+            <p>סכום לתשלום: {{i.sum! | num:2}}</p>
+        </div>
+        <div class="order-products">
+            <!-- עבור כל הזמנה מעבר על כל המוצרים והצגתם -->
+            @for(prod of i.products!; track prod){
+            <div class="card productInOrder-div" (dblclick)="goToProduct(prod.product.id!)">
+                <div class="card-body">
+                    <p>{{prod.product.name!}}</p>
+                    <p>{{prod.product.desc!}}</p>
+                    <p>מחיר ליחידה ${{prod.product.price!}}</p>
+                    <p>{{prod.amount!}} יחידות</p>
+                    <p>סה"כ לתשלום {{prod.amount*prod.product.price! | num:2}}</p>
+                </div>
+                <img src="../../../assets/{{prod.product.img!}}" class="card-img-bottom" alt="Product Image"
+                    style="height: 180px;">
+            </div>
+            }
+        </div>
+        <!-- צבע שונה לכפתור אם ההזמנה נמסרה -->
+        @if(i.receiveDate==null){
+        <button (click)="updateRecived(i)" class="btn btn1 btn-warning">אשר
+            מסירה</button>
+        }
+        @else{
+        <button class="btn btn1 btn-success">נמסר ---
+            {{i.receiveDate | date}}</button>
+        }
+    </div>
+    }
+</div>
+}

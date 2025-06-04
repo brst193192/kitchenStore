@@ -1,0 +1,23 @@
+<form [formGroup]="loginForm" class="login-form" style="max-width: 400px; margin: 50px auto;">
+    <h2>התחברות</h2>
+    <div class="form-group">
+        <input formControlName="Email" type="email" placeholder="אימייל" class="form-control input-div">
+        @if(getEmail?.invalid && (getEmail?.touched || getEmail?.dirty)){
+            @if(getEmail?.errors!['required']){
+                <p appErrors [color]="'red'">שדה חובה</p>
+            }
+        }
+    </div>
+    <div class="form-group">
+        <input formControlName="Password" type="password" placeholder="הכנס סיסמא" class="form-control">
+        @if(getPassword?.invalid && (getPassword?.touched || getPassword?.dirty)){
+            @if(getPassword?.errors!['required']){
+                <p appErrors [color]="'red'">שדה חובה</p>
+            }
+        }
+    </div>
+    <button (click)="login()" class="btn btn-primary" style="display: block; margin: 20px auto;">שליחה</button>
+</form>
+
+<button (click)="register()" class="btn btn-secondary" style="position: fixed; bottom: 20px; left: 20px;">🌟להצטרפות
+    למועדון הלקוחות ולהטבות משתלמות</button>

@@ -1,0 +1,52 @@
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\REPOSITORY.deps.json
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\REPOSITORY.runtimeconfig.json
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\REPOSITORY.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\REPOSITORY.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.csproj.AssemblyReference.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\refint\REPOSITORY.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.genruntimeconfig.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\ref\REPOSITORY.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\refint\REPOSITORY.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\REPOSITORY.deps.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\REPOSITORY.runtimeconfig.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\REPOSITORY.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\REPOSITORY.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\DTO_Entity_Common.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\DTO_Entity_Common.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.csproj.AssemblyReference.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.genruntimeconfig.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\ref\REPOSITORY.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\IRepository.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\IRepository.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\REPOSITORY.deps.json
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\REPOSITORY.runtimeconfig.json
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\REPOSITORY.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\REPOSITORY.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\DTO_Entity_Common.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\IRepository.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\DTO_Entity_Common.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\bin\Debug\net8.0\IRepository.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.csproj.AssemblyReference.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.AssemblyInfoInputs.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.AssemblyInfo.cs
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.csproj.CoreCompileInputs.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.csproj.Up2Date
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\refint\REPOSITORY.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.genruntimeconfig.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\ref\REPOSITORY.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\KitchenServer\obj\Debug\net8.0\REPOSITORY.csproj.Up2Date

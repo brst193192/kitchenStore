@@ -1,0 +1,25 @@
+<table class="table">
+    <thead>
+        <tr>
+        <th>id</th>
+        <th>name</th>
+        <th>cpu</th>
+        <th>memory</th>
+        <th>image</th> 
+     </tr>
+    </thead>
+    <tbody>
+        @for (c of computers; track c) {
+            <tr>
+                <td>{{c.id}}</td>
+                <td>{{c.name}}</td>
+                <td>{{c.cpu}}</td>
+                <td>{{c.memory}}</td>
+                <td>@if(!c.img){ אין כרגע תמונה } 
+                   @else{<img src={{c.img}} alt="image">}
+                </td>
+                <td><button (click)="delete(c.id!)">מחיקה</button></td>
+            </tr>
+        }
+    </tbody>
+</table>

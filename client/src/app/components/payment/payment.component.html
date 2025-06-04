@@ -1,0 +1,43 @@
+<!-- טבלת המוצרים להזמנה -->
+<table class="table table-striped table-bordered" dir="rtl">
+    <thead class="thead-dark">
+        <tr>
+            <th>קוד</th>
+            <th>שם</th>
+            <th>תאור</th>
+            <th>מחיר</th>
+            <th>כמות</th>
+            <th>סה"כ</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let i of products; let index = index">
+            <td>{{i.product!.id}}</td>
+            <td>{{i.product!.name}}</td>
+            <td>{{i.product!.desc}}</td>
+            <td>₪{{i.product!.price}}</td>
+            <td>{{i.amount}}</td>
+            <td>₪{{(i.product?.price! * i.amount!) | num:2}}</td>
+        </tr>
+        <tr>
+            <th colspan="6" class="text-center">סה"כ לתשלום: ₪{{sum | num:2}}</th>
+        </tr>
+        @if(isBirthMonth == true){
+        <tr>
+            <th colspan="6" class="text-center">₪{{(0.05*sum) | num:2}}- הנחת יום הולדת 5%</th>
+        </tr>
+        <tr>
+            <th colspan="6" class="text-center">מחיר לאחר הנחה: ₪{{(sum*0.95) | num:2}}</th>
+        </tr>
+        }
+        <tr>
+            <th colspan="6" class="text-center"> כתובת למשלוח: {{address}}</th>
+        </tr>
+    </tbody>
+</table>
+
+<!-- כפתורים להזמנה או חזרה לעגלה -->
+<div class="btns-flex">
+    <button (click)="back()" class="btn btn-secondary">לחזרה לעגלה</button>
+    <button (click)="order()" class="btn btn-primary">אישור והזמנה</button>
+</div>

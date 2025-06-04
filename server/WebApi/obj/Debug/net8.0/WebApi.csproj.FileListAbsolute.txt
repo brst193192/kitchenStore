@@ -1,0 +1,220 @@
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\appsettings.Development.json
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\appsettings.json
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.exe
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.deps.json
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.csproj.CopyComplete
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\appsettings.Development.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\appsettings.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.exe
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.deps.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Azure.Core.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.ClientModel.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\BLL_Services.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\DTO_Entity_Common.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\REPOSITORY.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\BLL_Services.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\DTO_Entity_Common.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\REPOSITORY.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\AutoMapper.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\IBll.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\IRepository.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\IBll.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\IRepository.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\appsettings.Development.json
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\appsettings.json
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.exe
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.deps.json
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\AutoMapper.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Azure.Core.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.ClientModel.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\BLL_Services.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\DTO_Entity_Common.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\IBll.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\IRepository.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\REPOSITORY.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\BLL_Services.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\DTO_Entity_Common.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\IBll.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\IRepository.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\REPOSITORY.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.pdb
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+F:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט חנות אביזרי מטבח\KitchenServer\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date

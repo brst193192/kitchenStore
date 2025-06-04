@@ -1,0 +1,94 @@
+<form [formGroup]="registerForm" class="login-form" style="max-width: 400px; margin: 50px auto;">
+    <h2>הרשמה</h2>
+    <div class="input-div">
+        <input formControlName="Fname" type="text" placeholder="שם פרטי" class="form-control">
+        @if(getFname!.invalid && (getFname!.touched || getFname!.dirty)){
+        @if(getFname!.errors!['required']){
+        <p appErrors [color]="'red'">שדה חובה</p>
+        }
+        @if(getFname==null || getFname.value.length<2){ <p appErrors [color]="'green'">אורך מינימלי 2 תווים</p>
+            }
+            }
+    </div>
+    <div class="input-div">
+        <input formControlName="Lname" type="text" placeholder="שם משפחה" class="form-control">
+        @if(getLname!.invalid && (getLname!.touched || getLname!.dirty)){
+        @if(getLname!.errors!['required']){
+        <p appErrors [color]="'red'">שדה חובה</p>
+        }
+        @if(getLname==null || getLname.value.length<2){ <p appErrors [color]="'green'">אורך מינימלי 2 תווים</p>
+            }
+            }
+    </div>
+    <div class="input-div">
+        <input formControlName="Email" type="email" placeholder="אימייל" class="form-control">
+        @if(getEmail!.invalid && (getEmail!.touched || getEmail!.dirty)){
+        @if(getEmail!.errors!['required']){
+        <p appErrors [color]="'red'">שדה חובה</p>
+        }
+        @if(getEmail!.errors!['email']) {
+        <p appErrors [color]="'orange'">כתובת מייל לא תקינה</p>
+        }
+        }
+    </div>
+    <div class="input-div">
+        <input formControlName="Password" type="password" placeholder="הכנס סיסמא" class="form-control">
+        @if(getPassword.invalid && (getPassword.touched || getPassword.dirty)){
+        @if(getPassword.errors!['required']){
+        <p appErrors [color]="'red'">שדה חובה</p>
+        }
+        }
+    </div>
+    <div class="input-div">
+        <input formControlName="CheckPassword" type="password" placeholder="אשר סיסמא" class="form-control">
+        @if((getCheckPassword==null || getPassword==null || getCheckPassword.value!=getPassword.value) &&
+        (getCheckPassword!.touched || getCheckPassword!.dirty)){
+        <p appErrors [color]="'orange'">סיסמא לא תואמת</p>
+        }
+    </div>
+    <div class="input-div">
+        <input formControlName="Birthday" type="date" placeholder="תאריך לידה" class="form-control">
+        @if(getBirthday!.invalid && (getBirthday!.touched || getBirthday!.dirty)){
+        @if(getBirthday!.errors!['required']){
+        <p appErrors [color]="'red'">שדה חובה</p>
+        }
+        }
+    </div>
+    <div class="input-div">
+        <input formControlName="City" type="text" placeholder="עיר" class="form-control">
+        @if(getCity!.invalid && (getCity!.touched || getCity!.dirty)){
+        @if(getCity!.errors!['required']){
+        <p appErrors [color]="'red'">שדה חובה</p>
+        }
+        }
+    </div>
+    <div class="input-div">
+        <input formControlName="Street" type="text" placeholder="רחוב" class="form-control">
+        @if(getStreet!.invalid && (getStreet!.touched || getStreet!.dirty)){
+        @if(getStreet!.errors!['required']){
+        <p appErrors [color]="'red'">שדה חובה</p>
+        }
+        }
+    </div>
+    <div class="input-div">
+        <input formControlName="BuildNumber" type="number" placeholder="מספר בנין" class="form-control">
+        @if(getBuildNumber!.invalid && (getBuildNumber!.touched || getBuildNumber!.dirty)){
+        <p appErrors [color]="'green'">המינימום הוא 1</p>
+        }
+    </div>
+    <div class="input-div">
+        <input formControlName="HouseNumber" type="number" placeholder="מספר דירה" class="form-control">
+        @if(getHouseNumber!.invalid && (getHouseNumber!.touched || getHouseNumber!.dirty)){
+        @if(getHouseNumber!.errors!['required']){
+        <p appErrors [color]="'red'">שדה חובה</p>
+        }
+        @if(getHouseNumber==null || getHouseNumber.errors!['min']){
+        <p appErrors [color]="'green'">המינימום הוא 1</p>
+        }
+        }
+    </div>
+    <button (click)="register()" class="btn btn-primary" style="display: block; margin: 20px auto;">שליחה</button>
+</form>
+
+<button (click)="login()" class="btn btn-secondary" style="position: fixed; bottom: 20px; left: 20px;">💗...לקוח שלנו?
+    התחבר עכשיו</button>

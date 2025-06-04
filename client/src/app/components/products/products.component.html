@@ -1,0 +1,42 @@
+<div id="allCategoriesDiv">
+    <button class="categoryBtn" (click)="showAll()">כל המוצרים</button>
+    @for(i of categories; track $index){
+    <button class="categoryBtn" (click)="showByCategory(i.id!)">{{i.name!}}</button>
+    }
+    <div id="sortTypesDiv">
+        <!-- <label>מיון לפי</label>
+        <select name="sortType" (change)="sort('price-up')">
+            <option value="hot">הכי חמים</option>
+            <option value="price-up">מחיר - מהנמוך לגבוה</option>
+            <option value="price-down">מחיר - מהגבוה לנמוך</option>
+            <option value="amountInStock">כמות במלאי</option>
+        </select> -->
+        <button class="btn btn-secondary" (click)="sort('price-up')">מיון מהמחיר הנמוך לגבוה</button>
+    </div>
+</div>
+
+<div id="cards-container" class="row" style="justify-content:center; margin:0px;" appFont
+    [fontFamily]="'Fb Basis BlackCondensed'">
+    @for(i of productsList; track $index){
+    <div class="card col-md-4" [ngClass]="{'notInStack': i.amountInStock == 0}"
+        style="width: 18rem; direction: rtl; margin: 1rem;">
+        <img src="../../../assets/{{i.img}}" class="card-img-top" alt="Product Image">
+        <div class="card-body">
+            <h5 class="card-title">{{i.name}}</h5>
+            <p class="card-text"><strong>מחיר: ₪{{i.price}}</strong></p>
+            @if(i.amountInStock!>0){
+            <p>נותרו רק {{i.amountInStock!}} יחידות</p>
+            }
+            @else{
+            <p>אזל מהמלאי</p>
+            }
+            <div style="display: ruby-text;">
+                <button class="btn btn-primary" style="margin-left: 10px;" *ngIf="userId!=null" appButtonDesighn
+                    (click)="addToCart(i.id!)" [disabled]="0==i.amountInStock!">הוסף לעגלה</button>
+                <button class="btn btn-secondary" style="margin-left: 10px;" (click)='showDetails(i.id!)'>פרטים
+                    נוספים</button>
+            </div>
+        </div>
+    </div>
+    }
+</div>
